@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which word is the opposite of expensive?",
+    "options": [
+      "heavy",
+      "cheap",
+      "rich",
+      "None of these"
+    ],
+    "correct": 1,
+    "level": "A1",
+    "note": "Expensive costs a lot; cheap costs a little."
+  },
+  {
+    "question": "My mother's sister is my...",
+    "options": [
+      "aunt",
+      "uncle",
+      "cousin",
+      "None of these"
+    ],
+    "correct": 0,
+    "level": "A1",
+    "note": "Your mother's or father's sister is your aunt."
+  }
+]
