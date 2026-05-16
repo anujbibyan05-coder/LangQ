@@ -21,7 +21,7 @@ let answers = [];
 let attempt = 1;
 
 async function loadQuestions() {
-  const response = await fetch('../quizzes/english-vocab/questions.json');
+  const response = await fetch('./questions.json');
   questions = await response.json();
 }
 
